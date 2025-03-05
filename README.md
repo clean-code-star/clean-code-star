@@ -28,7 +28,6 @@ Here are some of the tools and technologies that I work with:
 </p>
 
 <hr/>
-<br>
 
 ## Let’s Connect! 🤝
 I’m always open to collaborating and working on exciting projects. 
